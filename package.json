@@ -1,0 +1,15 @@
+{
+  "name": "git-github",
+  "version": "1.0.0",
+  "description": "prueba de git para clase ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prueba",
+    "git"
+  ],
+  "author": "Pre Dowlani",
+  "license": "ISC"
+}
